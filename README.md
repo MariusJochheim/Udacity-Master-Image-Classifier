@@ -20,7 +20,7 @@ source .venv/bin/activate
 ```
 2) Install required packages (adjust for your preferred deep learning framework; starter commonly uses PyTorch):
 ```
-pip install torch torchvision torchaudio matplotlib numpy jupyter
+pip install torch torchvision matplotlib numpy jupyter
 ```
 3) Run the notebook:
 ```
